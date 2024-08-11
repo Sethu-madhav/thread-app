@@ -1,0 +1,67 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Build output
+build/
+dist/
+coverage/
+
+# Logs
+logs/
+*.log
+
+# Runtime data
+pids/
+*.pid
+*.seed
+
+# Dependency directories
+jspm_packages/
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Frontend build output
+frontend/build/
+frontend/.next/
+frontend/.nuxt/
+frontend/dist/
+frontend/.parcel-cache/
+
+# Backend build output
+backend/build/
+backend/dist/
+backend/.next/
+backend/.nuxt/
+
+# Miscellaneous
+*.swp
+*.swo
+*.swn
+*.tmp
+*.bak
+
+# npm and yarn lock files
+package-lock.json
+yarn.lock
+
+# Parcel
+.cache/
